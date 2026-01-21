@@ -3,5 +3,5 @@ node_modules
 .vscode
 package-lock.json
 .aider*
-.env
 opencode
+config.bat
